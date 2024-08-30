@@ -1,0 +1,1 @@
+This script is very complex using math and gear ratios to set a top speed and acceleration for the vehicle. The automatic function is also very complicated with throttle positions and rpms to determine down shifting and up shifting. WIP.
